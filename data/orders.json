@@ -1,0 +1,27 @@
+[
+    {
+        "order_id": 1,
+        "user_id": 3,
+        "name": "mariam",
+        "email": "Mariam@gmail.com",
+        "address": "Egypt _egypt",
+        "phone": "01015128059",
+        "notes": "",
+        "total_price": 1300,
+        "items": [
+            {
+                "id": 2,
+                "name": "Golden Heart Pearl Hoop Earrings",
+                "price": "500",
+                "quantity": 1
+            },
+            {
+                "id": 5,
+                "name": "Twisted Gold Hoop Earrings",
+                "price": "400",
+                "quantity": 2
+            }
+        ],
+        "order_date": "2025-04-05 16:57:19"
+    }
+]

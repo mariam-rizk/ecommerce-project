@@ -1,0 +1,38 @@
+[
+    {
+       
+        "id": 3,
+        "name": "Mariam",
+        "email": "Mariam@gmail.com", 
+        "password": "$2y$10$O\/lxnmPhdVuaxF4JhLeghOF2q8nvBjlLuYChoxiADwSEA.JPdJewm",
+        "role": "admin"
+    },
+    {
+        "id": 3,
+        "name": "Ema",
+        "email": "Ema@gmail.com",
+        "password": "$2y$10$O\/lxnmPhdVuaxF4JhLeghOF2q8nvBjlLuYChoxiADwSEA.JPdJewm",
+        "role": "user"
+    },
+    {
+        "id": 4,
+        "name": "Sama",
+        "email": "Sama@gmail.com",
+        "password": "$2y$10$CdENXM3A4wv0FN7T6QBa4ONRU2pRfH2vwJHVMJ37pM7k93DAlMHk6",
+        "role": "user"
+    },
+    {
+        "id": 5,
+        "name": "salwa",
+        "email": "Salwa@gmail.com",
+        "password": "$2y$10$hyA4YbAZUU.E2w.5BONpLOaXs15rysy1JnMPV1MooVMxBCMomrRoK",
+        "role": "user"
+    },
+    {
+        "id": 6,
+        "name": "Esraa",
+        "email": "Esraa@gmail.com",
+        "password": "$2y$10$9oJmTP8s5tYR8h9P7eHdueeZOVCB8qpaINNxTt8aQLCd6ZKbXKSQq",
+        "role": "user"
+    }
+]

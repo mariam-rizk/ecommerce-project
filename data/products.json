@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "name": "Golden Planet Necklace",
+        "description": "his unique necklace features a design inspired by the beauty of planets and the universe. It showcases a circular golden pendant adorned with golden rings and four small stars, three of which are studded with clear sparkling stones. It's an ideal choice for lovers of celestial and delicate designs. The golden chain is simple yet elegant.",
+        "price": "700",
+        "image": "assets\/img\/1743851660_004ab402046da9d4b240115904d0a840.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Golden Heart Pearl Hoop Earrings",
+        "description": "These exquisite gold hoop earrings feature elegant heart-shaped pendants. The pendants are bordered with delicate white pearls, adding a touch of sophistication and charm. Perfect for special occasions or daily wear, these earrings combine classic design with a modern twis",
+        "price": "500",
+        "image": "assets\/img\/1743851810_5c8854427362e1f11673d5c902f2168c.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Hearts of Gold Diamond Ring",
+        "description": "This exquisite gold ring features a series of interconnected heart shapes, adding a romantic and elegant touch. Some of the hearts are adorned with sparkling diamonds or gemstones, enhancing its luxurious appeal. This ring is perfect for special occasions or as a meaningful gift for a loved one.",
+        "price": "2000",
+        "image": "assets\/img\/1743851885_6eef5efdce7ac99bdd8e48ccd2c2b1af.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Diamond Cross Gold Bangle x3",
+        "description": "A sleek gold bangle featuring a sparkling cross charm adorned with diamonds.",
+        "price": "550",
+        "image": "assets\/img\/1743871737_9adc86c318e86748d7694d81bf1d885a.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Twisted Gold Hoop Earrings",
+        "description": "A pair of elegant gold hoop earrings with a twisted design, featuring smooth gold sections combined with textured parts encrusted with sparkling stones. Perfect for a sophisticated touch to any outfit.",
+        "price": "400",
+        "image": "assets\/img\/1743871817_7385d241a1ea906915df0baa7a9b71ca.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Twisted Gold Hoop Earrings",
+        "description": "A pair of elegant gold hoop earrings with a twisted design, featuring smooth gold sections combined with textured parts encrusted with sparkling stones. Perfect for a sophisticated touch to any outfit.",
+        "price": "300",
+        "image": "assets\/img\/1743871899_ef7bccff666788bf3c1517bc1f80996d.jpg"
+    }
+]
