@@ -43,9 +43,9 @@ function register($name, $email , $password , $remember_me , $role = 'user') {
     if ($remember_me) {
         setcookie('remember_me', $email, time() + (86400 * 30), "/"); 
 
+    
+    }  
     return true;
-
-}
 }
 
 

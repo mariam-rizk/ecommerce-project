@@ -1,4 +1,5 @@
 <?php
+session_start();
 include '../core/validation.php';
 include '../core/functions.php';
 include '../core/messages.php';

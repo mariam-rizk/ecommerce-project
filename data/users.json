@@ -1,9 +1,8 @@
 [
     {
-       
         "id": 3,
         "name": "Mariam",
-        "email": "Mariam@gmail.com", 
+        "email": "Mariam@gmail.com",
         "password": "$2y$10$O\/lxnmPhdVuaxF4JhLeghOF2q8nvBjlLuYChoxiADwSEA.JPdJewm",
         "role": "admin"
     },
@@ -33,6 +32,13 @@
         "name": "Esraa",
         "email": "Esraa@gmail.com",
         "password": "$2y$10$9oJmTP8s5tYR8h9P7eHdueeZOVCB8qpaINNxTt8aQLCd6ZKbXKSQq",
+        "role": "user"
+    },
+    {
+        "id": 7,
+        "name": "Mariam",
+        "email": "Mariam12@gmail.com",
+        "password": "$2y$10$\/nvv9W4YXIVc0cjxCXtqd.iBTi27iRlGegF.EFYgWtggpv8Dj4LJa",
         "role": "user"
     }
 ]
